@@ -22,4 +22,4 @@ and copying the data sets into the storage account under the workspace.
 
 ### I also examined what results the  automated ML would give out 
 
-![Снимок экрана 2023-03-02 в 22 48 36](https://user-images.githubusercontent.com/85711789/222564931-e96b03ea-bda1-4fd8-92de-15297da24a94.png)
+![Снимок экрана 2023-03-02 в 22 51 51](https://user-images.githubusercontent.com/85711789/222566246-ead8c975-f259-4602-a041-7db7fe555d37.png)
