@@ -1,7 +1,6 @@
 .DS_Store
 .idea
 .ipynb_checkpoints/
-README.md
 data.parquet
 labels.csv
 processed_dataset.csv
